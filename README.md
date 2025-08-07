@@ -4,7 +4,7 @@ Soy un entusiasta de la Inteligencia Artificial y la creación de aplicaciones q
 
 ## 🚀 Sobre mí
 
-- 📚 Estudiante de **Ciencias de la Computación** (7mo ciclo)
+- 📚 Estudiante de **Ciencias de la Computación** (8vo ciclo)
 - 🤖 Apasionado por **Inteligencia Artificial**, **Machine Learning** y **Deep Learning**
 - 🛠️ Me encanta **desarrollar aplicaciones** que resuelvan problemas cotidianos
 - 🌱 Siempre en busca de aprender nuevas tecnologías y mejores prácticas
