@@ -11,7 +11,7 @@ Computer Science student at UPC (Lima, Peru), 8th semester, in the top 10% of my
 | Project | What it is | Stack |
 |---|---|---|
 | [luciel-platform](https://github.com/Jaed69/luciel-platform) | Self-hosted platform with content hub and web tools, CI/CD and secrets management | Astro, Next.js, FastAPI, Traefik, Docker, GitHub Actions |
-| [UPC-LLM-AWS](https://github.com/Jaed69/UPC-LLM-AWS) | LLM assistant and admin dashboard for ABET accreditation at UPC, built with a teammate | FastAPI, PostgreSQL, Amazon Bedrock, Docker |
+| UPC accreditation assistant (private) | LLM assistant and admin dashboard for ABET accreditation at UPC, built with a teammate; institutional code, available on request | FastAPI, PostgreSQL, Amazon Bedrock, Docker |
 | [Datafest](https://github.com/Jaed69/Datafest) | Team project: leakage-safe rolling-origin modeling of customer conversion propensity | LightGBM, CatBoost, survival models, TabPFN, uv |
 | [Smart-Trafic-v2.0](https://github.com/Jaed69/Smart-Trafic-v2.0) | Traffic-light control for a Lima intersection with an MDP, plus 2x2 multi-agent Q-Learning | TypeScript, Pixi.js, Vite, Python |
 | [NAO_PET](https://github.com/Jaed69/NAO_PET) | NAO robot controlled by voice and vision: Whisper, local LLM intent, YOLO-World | Python, YOLO-World, faster-whisper, Ollama, NAOqi |
